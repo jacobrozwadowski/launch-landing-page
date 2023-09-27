@@ -10,7 +10,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.imgur.com/bf2BVZd.png" alt="project-screenshot" width="1920" height="1080/">
+<img src="https://i.imgur.com/bf2BVZd.png" alt="project-screenshot" width="400" height="400/">
 
 <h2>🧐 Features</h2>
 
